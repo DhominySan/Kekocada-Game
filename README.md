@@ -1,13 +1,17 @@
 # Kekocada Game
 
-Bem-vindo ao **2D Adventure Game**! Este é um jogo de aventura em 2D onde os jogadores embarcam em uma jornada épica por diferentes níveis, enfrentando inimigos, resolvendo desafios e coletando recompensas. O jogo foi desenvolvido no GameMaker Studio e apresenta jogabilidade dinâmica e envolvente.
+Bem-vindo ao **Kekocada**! Este é um jogo de aventura em 2D que conta a história da bruxinha Keko, que enfrenta o desafio de ser uma comerciante de cocadas mágicas para ajudar as pessoas. O jogo ensina o jogador a superar desafios de forma divertida.
 
 ## Descrição
 
-Em **2D Adventure Game**, o jogador controla um herói que deve superar diversos obstáculos e inimigos para completar sua missão. Cada nível tem desafios únicos, com um total de 84 batalhas a serem enfrentadas. O jogador ganhará moedas ao longo da jornada, que podem ser usadas para comprar melhorias e equipamentos.
+Um jogo de aventura 2D estilo plataforma, com mecânicas simples e divertidas.
 
 ### Principais Características
-- **Exploração**: Descubra novos lugares, segredos e itens enquanto avança pelos níveis.
-- **Combate**: Enfrente inimigos em batalhas dinâmicas, usando uma variedade de armas e habilidades.
-- **Sistema de Progressão**: Colete moedas e melhore o personagem.
-- **Desafios Gradativos**: Enfrente 84 batalhas com dificuldade crescente.
+- **Superar Desafios**: Combata inimigos espalhados pelo cenário e colete recursos.
+- **Puzzle**: Modo de jogo divertido, onde o jogador deve apertar as teclas no momento certo.
+- **Quiz**: Ajude as pessoas a comprarem a cocada correta para suprir suas necessidades.
+
+### Imagens:
+![dEHUTQ](https://github.com/user-attachments/assets/9484c30c-47e4-435f-90df-a859c6759dba)
+![zbHq8_](https://github.com/user-attachments/assets/4af682e0-e75d-441f-a234-ec0518f56ea5)
+![b5UGuI](https://github.com/user-attachments/assets/3b7cdd73-0e20-4d38-91b4-5d90319e4985)
